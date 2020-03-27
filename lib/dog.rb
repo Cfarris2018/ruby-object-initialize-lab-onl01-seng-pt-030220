@@ -3,7 +3,7 @@
 #3. Include a default argument for an initialize 
 
 class Dog 
-  def 
+  def initialize(name)
 
 
 end
